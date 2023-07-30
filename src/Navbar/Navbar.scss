@@ -1,0 +1,30 @@
+.header{
+    .container{
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+.logo{
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+}
+    
+.contact{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    column-gap: 24px;
+    a{
+        font-size: 16px;
+        font-weight: 400;
+    }
+}

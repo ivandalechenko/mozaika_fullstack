@@ -1,0 +1,30 @@
+.usp{
+    width: 100%;
+    background-color: white;
+    .container{
+        display: flex;
+        justify-content: space-between;
+        padding: 60px 0px;
+        align-items: center;
+    }
+    &_text{
+        .h1{
+            font-size: 52px;
+            font-weight: 700;
+            width: 712px;
+        }
+        .h2{
+            margin-top: 20px;
+            font-size: 20px;
+            font-weight: 400;
+            width: 473px;
+        }
+        .button{
+            margin-top: 40px;
+            padding: 15px 40px;
+            color: white;
+            background-color:#292929;
+            border-radius: 10px;
+        }
+    }
+}
