@@ -17,7 +17,7 @@ const Navbar = (props) => {
                         <a href='#'>Вопросы - ответы</a>
                     </div>
                     <div className="contact">
-                        +7 123 456 789
+                        +7 123 456 789 228
                     </div>
                 </div>
             </header>
